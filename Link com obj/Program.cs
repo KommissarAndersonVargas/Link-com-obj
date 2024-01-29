@@ -28,5 +28,6 @@ class Progran
             Console.WriteLine(a);
         }
         Console.WriteLine(w);
+        Console.WriteLine("oi");
     }
 }
