@@ -31,6 +31,8 @@ class Progran
 
         Console.WriteLine("anderson");
 
-       
+        Console.WriteLine( " Depois do commit");
+        Console.WriteLine(" Depois do commit2");
+        Console.WriteLine(" Depois do commit3");
     }
 }
