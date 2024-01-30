@@ -31,6 +31,6 @@ class Progran
 
         Console.WriteLine("anderson");
 
-        Console.WriteLine("tchau");
+       
     }
 }
